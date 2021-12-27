@@ -5,7 +5,7 @@
 # Name of your site (displayed in the header)
 name: "Kong Hao's blog"
 # Short bio or description (displayed in the header)
-description: ""
+description: "Nothing"
 
 #
 # Flags below are optional
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  zhihu: 
+  email: konghaocc@gmail.com
   facebook:
   flickr:
-  github: lemonchann 
+  github:  
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -65,8 +65,8 @@ disqus: # fromendworld
 gitalk:
   clientID: bd65d5c0df878155b7fa
   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  repo: realkonghao.github.io
+  owner: realkonghao
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
