@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 3a2cceabe25e04f2c5d3
+  clientSecret: 501c45e83371df38af7623b48137a570114678a7
   repo: realkonghao.github.io
   owner: realkonghao
 
